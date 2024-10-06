@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         int initialBalance = 100;
-        int refill = 200;
+        int refill = 1300;
 
         int bonus;
         if (refill >= 1000) {
